@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <a>Hi epefpp</a>
+        <a>Hi </a>
       </header>
     </div>
   );
