@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import logo from './images/svg/logo.svg';
+import './styles/App.css';
 
 function App() {
   return (
@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <a>Hi epefpp</a>
       </header>
     </div>
   );
